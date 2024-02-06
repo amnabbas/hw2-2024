@@ -44,6 +44,7 @@ img {
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
+    border: none;
     border-bottom: 2px solid white;
     border-left: 5px solid white;
  }
@@ -52,6 +53,7 @@ img {
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
+    border: none;
     border-right: 5px solid white;
     border-top: 2px solid white;
  }
@@ -64,6 +66,7 @@ img {
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
+    border: none;
     border-bottom: 2px solid white;
     border-left: 5px solid white;
     color: #707070;
@@ -73,13 +76,14 @@ img {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px solid white; 
-    border-top: 2px solid whitee; 
+    border: none;
+    border-right: 5px solid white;
+    border-top: 2px solid white;
  }
 
  footer {
     background: linear-gradient(to right, #000000, #0000ff 25%, #0066ff 70%, #000000);
-    border: 5px solid #FFFFFF; /* White */
+    border: 5px solid white;
  }
  
  footer p {
